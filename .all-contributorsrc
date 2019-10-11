@@ -503,7 +503,18 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aryanguati",
+      "name": "ARYAN GULATI",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/42711978?s=400&v=4",
+      "profile": "https://github.com/aryangulati",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
+
   ],
   "contributorsPerLine": 7,
   "projectName": "osw-hacktoberfest-2019",

@@ -1,4 +1,4 @@
-# 🔥 See : https://github.com/OSWeekends/osw-hacktoberfest-2019/issues/230
+﻿# 🔥 See : https://github.com/OSWeekends/osw-hacktoberfest-2019/issues/230
 ===
 
 READ ONLY
@@ -171,4 +171,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind most welcome!
